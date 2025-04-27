@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Sobre Mim - Meu Primeiro Site</title>
+</head>
+<body>
+  <h1>Bem-vindo(a) à Minha Página!</h1>
+  
+  <p>Olá! Meu nome é Ana e estou começando minha jornada na programação web. 🎉</p>
+  
+  <h2>Meus Hobbies</h2>
+  <ul>
+    <li>Ler livros</li>
+    <li>Jogar futebol</li>
+    <li>Assistir séries</li>
+  </ul>
+
+  <h2>Minhas Linguagens Favoritas</h2>
+  <ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ol>
+
+  <p>Visite o meu site favorito:</p>
+  <a href="https://www.youtube.com" target="_blank">YouTube</a>
+
+  <h2>Imagem que me inspira</h2>
+  <img src="https://hermes.dio.me/assets/articles/55252286-0639-411d-ad10-535e6abdb7d3.png" alt="Imagem Exemplo">
+
+  <h2>Meu vídeo favorito</h2>
+  <iframe width="400" height="250" src="https://www.youtube.com/embed/bnPQUgtBDvA?si=BXMEXOKp7O_BoNHa" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
